@@ -1,0 +1,13 @@
+uuid: c135c600-39b4-4d18-9802-2d200fed2352
+langcode: es
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zhtPXoRcC6REiepM0k16zw__FDW5YOXDR6U2WlldTrs
+name: 'Basic page'
+type: page
+description: 'Utilice <em>páginas básicas</em> para contenido estático, como una página "Acerca de...".'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: false

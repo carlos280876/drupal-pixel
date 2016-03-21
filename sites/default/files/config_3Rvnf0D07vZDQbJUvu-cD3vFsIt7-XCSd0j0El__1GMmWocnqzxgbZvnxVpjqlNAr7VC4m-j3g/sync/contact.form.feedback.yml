@@ -1,0 +1,12 @@
+uuid: ec5b59e2-8e4b-412e-af5c-925680a51a48
+langcode: es
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Retroalimentación del sitio web'
+recipients:
+  - carlos280876@gmail.com
+reply: ''
+weight: 0

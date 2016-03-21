@@ -1,0 +1,14 @@
+uuid: 018bcfb2-42d3-470a-b600-feb81072ac9c
+name: 'Pixelpro Cloud'
+mail: carlos280876@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: es
+default_langcode: es
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
